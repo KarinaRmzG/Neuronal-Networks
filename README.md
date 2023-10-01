@@ -1,6 +1,6 @@
 # Redes Neuronales
 
-**Profesor:** Vasquez Gomez Juan Irving 
+  **Profesor:** Vasquez Gomez Juan Irving 
 **Alumna:**  Ramírez Galindo Karina
 
 ## Lista de Actividades
